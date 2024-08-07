@@ -31,9 +31,9 @@
 
 
 
-### Our figma  
-🏞️ Flows, colors, typography, components. It grows by requests or after core team roadmap sessions.
-🔗 [Link](https://www.figma.com/design/UnwvwBG3v5lyXohnIMTzRY/Tracker?node-id=1-3) 
+### Our figma 🔗 [Link](https://www.figma.com/design/UnwvwBG3v5lyXohnIMTzRY/Tracker?node-id=1-3)     
+Flows, colors, typography, components. It grows by requests or after core team roadmap sessions.
+
   
 ![image](https://github.com/user-attachments/assets/6b0ccef1-3bcf-42d3-a77b-4d7664992606)  
 
