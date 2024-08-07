@@ -17,7 +17,7 @@
 
 🕊️ Here, we take knowledge from each other and make the world better. Join our [Telegram community](https://t.me/+U59zeykgrwYwYWQy) and contribute to making Pirato even better!
 
-🙋🏾‍♀️ Got questions? [Mail us 📬](piratotasktracker@gmail.com)
+🙋🏾‍♀️ Got questions? Mail us 📬 by piratotasktracker@gmail.com
 
 ### Roadmap
 
